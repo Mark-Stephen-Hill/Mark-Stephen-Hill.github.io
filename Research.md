@@ -20,5 +20,6 @@ permalink: /research/
 <h1>The evolution of gene expression and plasticity</h1>
 Details soon!
 
+<hr>
 <h2>Reuter Lab research</h2>
 To see the main areas of research for my PhD please see my <a class="page-link" href="/phd_research/">PhD Research page</a>.
