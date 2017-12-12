@@ -1,6 +1,6 @@
 ---
 layout: page
-title: phd_research
+title: PhD Research
 permalink: /phd_research/
 ---
 <div align="justify">
