@@ -4,6 +4,16 @@ layout: page
 permalink: /phd_research/
 exclude_from_nav: true
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111105866-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-111105866-1');
+</script>
+
 <div align="justify">
 <h1>The genetic basis of intralocus sexual conflict</h1>
 <p>The divergent reproductive roles of males and females generate sexually antagonistic selection, with opposing trait values favoured in each sex. Responses to these selective pressures are however constrained by the sexes' shared genome, leading to 'intralocus sexual conflict' (IASC) or 'sexual antagonism', where different alleles at given loci are favoured by selection in each sex. IASC is widespread among animals and plants and imposes an important evolutionary constraint on adaptation. However, despite our increasing understanding of the taxonomic prevalence of IASC and the traits affected, the genetic loci underlying this antagonism remain almost entirely unknown. To address this shortcoming I am combining experimental evolution, next-generation sequencing and bionformatics in a bid to identify causal sexually antagonistic loci across the <i>Drosophila melanogaster</i> genome.</p>
