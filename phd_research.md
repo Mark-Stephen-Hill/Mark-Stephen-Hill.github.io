@@ -1,6 +1,5 @@
 ---
 layout: page
-title: PhD Research
 permalink: /phd_research/
 exclude: true
 ---
