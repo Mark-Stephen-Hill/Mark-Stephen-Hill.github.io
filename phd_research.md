@@ -2,6 +2,7 @@
 layout: page
 title: PhD Research
 permalink: /phd_research/
+exclude: true
 ---
 <div align="justify">
 <h1>The genetic basis of intralocus sexual conflict</h1>
