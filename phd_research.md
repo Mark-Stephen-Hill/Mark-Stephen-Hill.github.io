@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /phd_research/
-exclude: true
+exclude_from_nav: true
 ---
 <div align="justify">
 <h1>The genetic basis of intralocus sexual conflict</h1>
