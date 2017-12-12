@@ -1,4 +1,5 @@
 ---
+title: PhD Research
 layout: page
 permalink: /phd_research/
 exclude_from_nav: true
