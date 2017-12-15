@@ -13,10 +13,6 @@ permalink: /contact/
   gtag('config', 'UA-111105866-1');
 </script>
 
-Mark Stephen Hill<br>
-Postdoctoral Research Fellow<br>
-Wittkopp Lab<br>
-
 Department of Ecology and Evolutionary Biology<br>
 1061 Kraus Natural Science building<br>
 University of Michigan<br>
@@ -25,5 +21,5 @@ USA<br>
 
 Email: marshill[at]umich.edu<br>
 Twitter: @MarksHilly<br>
-Department website: https://lsa.umich.edu/eeb/people/postdoctoral-fellows/mark-hill.html<br>
-Wittkopp Lab website: https://sites.lsa.umich.edu/wittkopp-lab/<br>
+<a href="https://lsa.umich.edu/eeb/people/postdoctoral-fellows/mark-hill.html">Departmental Website</a><br>
+<a href="https://sites.lsa.umich.edu/wittkopp-lab/">Wittkopp Lab Website</a><br>
