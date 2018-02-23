@@ -17,7 +17,7 @@ permalink: /research/
 
 <h2>Current research projects</h2>
 
-<h1>The evolution of gene expression and plasticity</h1>
+<h1>Gene regulatory evolution</h1>
 Details soon!
 
 <hr>
