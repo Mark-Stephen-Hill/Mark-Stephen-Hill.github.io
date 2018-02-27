@@ -25,4 +25,4 @@ Details soon!
 
 <hr>
 <h2>Reuter Lab research (PhD)</h2>
-To see the main areas of research for my PhD please see my <a class="page-link" href="/phd_research/">PhD Research page</a>.
+To see the main areas of research for my PhD please see my <a class="page-link" href="/phd_research/" style="color:#8b0000">PhD Research page</a>.
