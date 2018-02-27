@@ -29,4 +29,4 @@ Collet, J., Fuentes, S., Hesketh, J., <b>Hill, M. S.</b>, Innocenti, P., Morrow,
 
 <h1>In preparation</h1>
 
-<b>Hill, M. S.</b>, Reuter, M., Stewart, A. The evolution of polymorphic gene expression in regulatory networks under sexually antagonistic selection.
+<b>Hill, M. S.</b>, Reuter, M., Stewart, A. Sexual antagonism and displaced polymorphism in gene regulatory cascades.

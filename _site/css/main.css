@@ -13,8 +13,8 @@ dl, dd, ol, ul, figure {
 body {
   height: 100%;
   font: 400 16px/1.5 "Tahoma", Verdana, Segoe, sans-serif;
-  color: #fdfdfd;
-  background-color: #4d4d4d;
+  color: #1a1a1a;
+  background-color: #FFFFFF;
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
   -moz-font-feature-settings: "kern" 1;
@@ -67,12 +67,12 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #e4e4e4;
+  color: #010101;
   text-decoration: none; }
   a:visited {
-    color: #bdbdbd; }
+    color: black; }
   a:hover {
-    color: #fdfdfd;
+    color: #1a1a1a;
     text-decoration: underline; }
 
 /**
@@ -151,39 +151,41 @@ pre {
 .site-header {
   border-top: 0px solid #bdbdbd;
   border-bottom: 0px solid white;
-  height: 56px;
+  height: 60px;
   width: 101%;
-  background-color: #333333;
+  background-color: #393f32;
   margin-left: -1em;
   margin-top: -0.5em;
   position: fixed; }
 
 .site-title {
-  font-size: 26px;
+  font-size: 20px;
   font-weight: 300;
   line-height: 56px;
   letter-spacing: -1px;
   float: left;
-  margin-left: 2; }
+  margin-left: 10; }
   .site-title, .site-title:visited {
-    color: #bdbdbd; }
+    color: white; }
 
 .site-nav {
+  font-size: 20px;
+  color: #FFFFFF;
   float: right;
   line-height: 56px; }
   .site-nav .menu-icon {
     display: none; }
   .site-nav .page-link {
-    color: #fdfdfd;
+    color: #FFFFFF;
     line-height: 1.5; }
     .site-nav .page-link:not(:last-child) {
-      margin-right: 20px; }
+      margin-right: 12px; }
   @media screen and (max-width: 600px) {
     .site-nav {
       position: absolute;
       top: 9px;
       right: 15px;
-      background-color: #4d4d4d;
+      background-color: #FFFFFF;
       border: 1px solid white;
       border-radius: 5px;
       text-align: right; }
@@ -268,6 +270,9 @@ pre {
 /**
  * Page content
  */
+hr {
+  colour: #393f32; }
+
 .page-content {
   padding: 30px 0;
   margin-top: 0px; }
