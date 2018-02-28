@@ -13,7 +13,7 @@ permalink: /Publications/
   gtag('config', 'UA-111105866-1');
 </script>
 
-<h1>Published</h1>
+<h1>Peer reviewed articles</h1>
 
 Reuter, M., Camus, M. F., <b>Hill, M. S.</b>, Ruzicka, F., Fowler, K. 2017. Evolving plastic responses to external and genetic environments. <a href="http://ac.els-cdn.com/S0168952517300045/1-s2.0-S0168952517300045-main.pdf?_tid=2a7d67f6-ebee-11e6-a180-00000aab0f26&acdnat=1486332062_e1b2719461cfd3704c1c2a321a7177ee" style="color:#8b0000">Trends in Genetics 33(3): 169 – 170.</a>
 
