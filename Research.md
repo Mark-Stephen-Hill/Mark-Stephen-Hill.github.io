@@ -19,13 +19,12 @@ permalink: /research/
 <img src="../img/Saccharomyces_cerevisiae_SEM.jpg" align="right" hspace="20">
 
 <div align="justify">
-<br>
 <h1 align = "left">The impact of mutation, selection, and drift on gene expression evolution</h1>
-<br>
 
 Details soon!
 </div>
 
+<br>
 <br>
 <hr>
 
@@ -33,9 +32,7 @@ Details soon!
 <img src="../img/drosophila_pic.png" align="right" hspace="20">
 
 <div align="justify">
-<br>
 <h1>The geomic basis sexual antagonism in <i>Drosophila melanogaster</i></h1>
-<br>
 
 <p>The divergent reproductive roles of males and females generate sexually antagonistic selection, with opposing trait values favoured in each sex. Responses to these selective pressures are however constrained by the sexes' shared genome, leading to 'sexual antagonism' (SA), where different alleles at given loci are favoured by selection in each sex. SA is widespread among animals and plants and imposes an important evolutionary constraint on adaptation. However, despite our increasing understanding of the taxonomic prevalence of SA and the traits affected, the genetic loci underlying this antagonism remain almost entirely unknown. To address this shortcoming I combined experimental evolution, next-generation sequencing and bionformatics in a bid to identify causal sexually antagonistic loci across the <i>Drosophila melanogaster</i> genome.</p>
 
