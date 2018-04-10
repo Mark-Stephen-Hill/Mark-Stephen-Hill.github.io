@@ -21,7 +21,8 @@ permalink: /research/
 <div align="justify">
 <h1 align = "left">The impact of mutation, selection, and drift on gene expression evolution</h1>
 
-Details soon!
+Variation in gene expression is a fundamental driver of phenotypic diversity both within and between species. New mutations with cis- and trans-acting effects on gene expression generate this variation, but it is also shaped by the action of natural selection. The relative influence of mutation, drift, and selection in shaping gene expression evolution remains difficult to disentangle. Realistic models describing the variation in gene expression expected in the absence of selection as well as when evolving on specific fitness landscapes are key steps toward achieving this goal. Generating such explicit models requires the understanding of the distribution of mutational effects on gene expression and the impact of this expression variation on fitness. A body of recent empirical work in Saccharomyces cerevisiae systematically characterizing the relative frequency and expression effects of thousands of cis- and trans-regulatory mutations altering expression of the TDH3 gene, as well as the impact of TDH3 expression variation on fitness in multiple environments provides just this type of data. Currently, I am using this information to build a realistic model of gene expression evolution, with individuals evolving on real fitness landscapes and mutational effects sampled from empirically derived distributions. By using this model to simulate the evolution of gene expression, I hope to reveal the impact of biases in the mutational spectrum, neutral processes, and natural selection on this quantitative trait. 
+ 
 </div>
 
 <br>
