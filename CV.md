@@ -13,4 +13,4 @@ permalink: /cv/
   gtag('config', 'UA-111105866-1');
 </script>
 
-<iframe src="https://drive.google.com/file/d/1cJZRzRhzf7iGQFDsCeN-2-Gdvh7d08eG/preview" width="100%" style="height: 100vh;"></iframe>
+<iframe src="https://drive.google.com/file/d/1l47zgWJtK5F4rLfurjN0CDVg9DRWhpna/preview" width="100%" style="height: 100vh;"></iframe>
