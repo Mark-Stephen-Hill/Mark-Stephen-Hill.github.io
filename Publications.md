@@ -21,11 +21,12 @@ Collet, J., Fuentes, S., Hesketh, J., <b>Hill, M. S.</b>, Innocenti, P., Morrow,
 
 <hr>
 
-<h1>In review</h1>
+<h1>Preprints</h1>
 
-Ruzicka, F.,<sup>*</sup> <b>Hill, M. S.,<sup>*</sup></b> Pennell, T., Ingleby, F., Fowler, K., Reuter, M., Morrow, E. H. Genome-wide sexually antagonistic variants reveal lonsgstanding constraints on sexual dimorphism in the fruitfly.
+Ruzicka, F.,<sup>*</sup> <b>Hill, M. S.,<sup>*</sup></b> Pennell, T., Fliss, I., Ingleby, F., Fowler, K., Morrow, E. H.,<sup>#$</sup> Reuter, M.<sup>#</sup> Genome-wide sexually antagonistic variants reveal lonsgstanding constraints on sexual dimorphism in the fruitfly. <a href="https://doi.org/10.1101/117176" style="color:#8b0000">BioR&chiiv.</a>
 
 <b>*</b> Equal contribution
+<b>#</b> Equal contribution
 
 <hr>
 
@@ -34,6 +35,3 @@ Ruzicka, F.,<sup>*</sup> <b>Hill, M. S.,<sup>*</sup></b> Pennell, T., Ingleby, F
 <b>Hill, M. S.</b>, Reuter, M., Stewart, A. Sexual antagonism and displaced polymorphism in gene regulatory cascades.
 
 <hr>
-
-<h1>Preprints</h1>
-Coming soon.
