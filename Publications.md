@@ -26,7 +26,8 @@ Collet, J., Fuentes, S., Hesketh, J., <b>Hill, M. S.</b>, Innocenti, P., Morrow,
 Ruzicka, F.,<sup>*</sup> <b>Hill, M. S.,<sup>*</sup></b> Pennell, T., Fliss, I., Ingleby, F., Fowler, K., Morrow, E. H.,<sup>#</sup> Reuter, M.<sup>#</sup> Genome-wide sexually antagonistic variants reveal lonsgstanding constraints on sexual dimorphism in the fruitfly. <a href="https://doi.org/10.1101/117176" style="color:#8b0000">BioRxiv.</a>
 
 <b>*</b> Equal contribution
-<b>#</b> Equal contribution\\
+<b>#</b> Equal contribution
+<br>
 
 <b>Hill, M. S.</b>, Reuter, M., Stewart, A. Sexual antagonism drives the displacement of polymorphism across gene regualtory cascades. BioRxiv.
 
