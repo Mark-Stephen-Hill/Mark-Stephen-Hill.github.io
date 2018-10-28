@@ -16,7 +16,8 @@ permalink: /contact/
 <div align="justify">
 
 <p align = "left">Department of Ecology and Evolutionary Biology<br>
-1061 Kraus Natural Science building<br>
+4002 Biological Sciences Building<br>
+1105 North University Avenue<br>
 University of Michigan<br>
 Ann Arbor, MI 48109<br>
 USA<br>
@@ -34,7 +35,7 @@ Twitter: @MarksHilly<br>
 <script>
 function myMap() {
     var mapOptions = {
-        center: new google.maps.LatLng(42.278486, -83.736876),
+        center: new google.maps.LatLng(42.16447, -83.44042),
         zoom: 15,
         mapTypeId: google.maps.MapTypeId.ROADMAP
     }
