@@ -27,7 +27,8 @@ Ruzicka, F.,<sup>*</sup> <b>Hill, M. S.,<sup>*</sup></b> Pennell, T., Fliss, I.,
 
 <b>*</b> Equal contribution
 <b>#</b> Equal contribution
-<hr>
+<br>
+<br>
 
 <b>Hill, M. S.</b>, Reuter, M., Stewart, A. Sexual antagonism drives the displacement of polymorphism across gene regualtory cascades. BioRxiv.
 
