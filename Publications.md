@@ -37,6 +37,6 @@ Ruzicka, F.,<sup>*</sup> <b>Hill, M. S.,<sup>*</sup></b> Pennell, T., Fliss, I.,
 
 <h1>In preparation</h1>
 
-<b>Hill, M. S.</b>, Andrea, H. D., Wittkopp, P. J. Regualtory evolution of the <i>TDH3</i> gene. 
+<b>Hill, M. S.</b>, Andrea, H. D., Wittkopp, P. J. Regulatory evolution of the <i>TDH3</i> gene. 
 
 <hr>
