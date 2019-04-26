@@ -16,7 +16,7 @@ permalink: /Publications/
 <h1>Peer reviewed articles</h1>
 
 
-Ruzicka, F.,<sup>*</sup> <b>Hill, M. S.,<sup>*</sup></b> Pennell, T.,<sup>*</sup> Fliss, I., Ingleby, F., Fowler, K., Morrow, E. H.,<sup>#</sup> Reuter, M.<sup>#</sup> Genome-wide sexually antagonistic variants reveal lonsgstanding constraints on sexual dimorphism in the fruitfly. <a href="https://doi.org/10.1371/journal.pbio.3000244" style="color:#8b0000">PLoS Biol 17(4): e3000244.</a>
+Ruzicka, F.,<sup>*</sup> <b>Hill, M. S.,<sup>*</sup></b> Pennell, T. M.,<sup>*</sup> Fliss, I., Ingleby, F. C., Mott, R., Fowler, K., Morrow, E. H.,<sup>#</sup> Reuter, M.<sup>#</sup> Genome-wide sexually antagonistic variants reveal lonsgstanding constraints on sexual dimorphism in the fruitfly. <a href="https://doi.org/10.1371/journal.pbio.3000244" style="color:#8b0000">PLoS Biol 17(4): e3000244.</a>
 
 <b>*</b> Equal contribution
 <b>#</b> Equal contribution
