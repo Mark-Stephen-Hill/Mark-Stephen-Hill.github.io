@@ -15,6 +15,7 @@ permalink: /Publications/
 
 <h1>Peer reviewed articles</h1>
 
+<b>Hill, M. S.</b>, Reuter, M., Stewart, A. Sexual antagonism drives the displacement of polymorphism across gene regualtory cascades. <i>In Press - Proc. R. Soc. B.</i>
 
 Ruzicka, F.,<sup>*</sup> <b>Hill, M. S.,<sup>*</sup></b> Pennell, T. M.,<sup>*</sup> Fliss, I., Ingleby, F. C., Mott, R., Fowler, K., Morrow, E. H.,<sup>#</sup> Reuter, M.<sup>#</sup> Genome-wide sexually antagonistic variants reveal lonsgstanding constraints on sexual dimorphism in the fruitfly. <a href="https://doi.org/10.1371/journal.pbio.3000244" style="color:#8b0000">PLoS Biol 17(4): e3000244.</a>
 
@@ -26,11 +27,6 @@ Reuter, M., Camus, M. F., <b>Hill, M. S.</b>, Ruzicka, F., Fowler, K. 2017. Evol
 Collet, J., Fuentes, S., Hesketh, J., <b>Hill, M. S.</b>, Innocenti, P., Morrow, T., Fowler, K., Reuter, M. 2016. Rapid evolution of the intersexual genetic correlation for fitness in <i>Drosophila melanogaster</i>. <a href="http://onlinelibrary.wiley.com/doi/10.1111/evo.12892/epdf" style="color:#8b0000">Evolution 70(4): 781 – 795.</a>
 
 <hr>
-
-<h1>Preprints</h1>
-
-<b>Hill, M. S.</b>, Reuter, M., Stewart, A. Sexual antagonism drives the displacement of polymorphism across gene regualtory cascades. <a href="https://www.biorxiv.org/content/early/2018/10/29/454959" style="color:#8b0000">BioRxiv.</a>
-
 <hr>
 
 <h1>In preparation</h1>
