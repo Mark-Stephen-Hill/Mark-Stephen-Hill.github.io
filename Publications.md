@@ -15,7 +15,7 @@ permalink: /Publications/
 
 <h1>Peer reviewed articles</h1>
 
-<b>Hill, M. S.</b>, Reuter, M., Stewart, A. Sexual antagonism drives the displacement of polymorphism across gene regualtory cascades. <i>In Press - Proc. R. Soc. B.</i>
+<b>Hill, M. S.</b>, Reuter, M., Stewart, A. 2019. Sexual antagonism drives the displacement of polymorphism across gene regualtory cascades. <i>In Press - Proc. R. Soc. B.</i>
 
 Ruzicka, F.,<sup>*</sup> <b>Hill, M. S.,<sup>*</sup></b> Pennell, T. M.,<sup>*</sup> Fliss, I., Ingleby, F. C., Mott, R., Fowler, K., Morrow, E. H.,<sup>#</sup> Reuter, M.<sup>#</sup> 2019. Genome-wide sexually antagonistic variants reveal lonsgstanding constraints on sexual dimorphism in the fruitfly. <a href="https://doi.org/10.1371/journal.pbio.3000244" style="color:#8b0000">PLoS Biol 17(4): e3000244.</a>
 
