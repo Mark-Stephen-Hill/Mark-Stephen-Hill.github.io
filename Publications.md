@@ -34,8 +34,8 @@ Collet, J., Fuentes, S., Hesketh, J., <b>Hill, M. S.</b>, Innocenti, P., Morrow,
 <hr>
 <h1>In preparation</h1>
 
-<b>Hill, M. S.</b>, Hodgins-Davis, A., Wittkopp, P. J. Explaining recurrent patterns of regulatory evolution by integrating empirical properties of regulatory mutations.
+<b>Hill, M. S.</b>, Hodgins-Davis, A., Wittkopp, P. J. Integrating empirical properties of regulatory mutations helps to explain recurrent patterns of regulatory evolution.
 
-<b>Hill, M. S.<sup>*</sup></b>, Vande Zande P.<sup>*</sup>, Wittkopp, P. J.<sup>*</sup>. The origin of regulatory variation: impacts of new mutations on gene expression. <i>Review article</i>.
+<b>Hill, M. S.<sup>*</sup></b>, Vande Zande P.<sup>*</sup>, Wittkopp, P. J. Molecular and evolutionary processes generating variation in gene expression. <i>Review article</i>.
 
 <hr>
