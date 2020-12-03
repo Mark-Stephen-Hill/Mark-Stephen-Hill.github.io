@@ -14,6 +14,10 @@ permalink: /Publications/
 </script>
 
 <h1>Peer reviewed articles</h1>
+<b>Hill, M. S.<sup>*</sup></b>, Vande Zande P.<sup>*</sup>, Wittkopp, P. J. 2020. Molecular and evolutionary processes generating variation in gene expression. <a href="https://www.nature.com/articles/s41576-020-00304-w" style="color:#8b0000">Nature Reviews Genetics.</a>
+
+<b>*</b> Equal contribution
+<br>
 
 <b>Hill, M. S.</b>, Reuter, M., Stewart, A. 2019. Sexual antagonism drives the displacement of polymorphism across gene regualtory cascades. <a href="https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2019.0660" style="color:#8b0000">Proc. R. Soc. B. 286.</a>
 <br>
@@ -28,13 +32,6 @@ Reuter, M., Camus, M. F., <b>Hill, M. S.</b>, Ruzicka, F., Fowler, K. 2017. Evol
 <br>
 
 Collet, J., Fuentes, S., Hesketh, J., <b>Hill, M. S.</b>, Innocenti, P., Morrow, T., Fowler, K., Reuter, M. 2016. Rapid evolution of the intersexual genetic correlation for fitness in <i>Drosophila melanogaster</i>. <a href="http://onlinelibrary.wiley.com/doi/10.1111/evo.12892/epdf" style="color:#8b0000">Evolution 70(4): 781 – 795.</a>
-<br>
-
-<hr>
-<h1>Accepted Articles</h1>
-<b>Hill, M. S.<sup>*</sup></b>, Vande Zande P.<sup>*</sup>, Wittkopp, P. J. Molecular and evolutionary processes generating variation in gene expression. <i>Nature Reviews Genetics</i>.
-
-<b>*</b> Equal contribution
 <br>
 
 <hr>
