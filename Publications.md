@@ -15,7 +15,6 @@ permalink: /Publications/
 
 <h1>Peer reviewed articles</h1>
 <b>Hill, M. S.<sup>*</sup></b>, Vande Zande P.<sup>*</sup>, Wittkopp, P. J. 2020. Molecular and evolutionary processes generating variation in gene expression. <a href="https://www.nature.com/articles/s41576-020-00304-w" style="color:#8b0000">Nature Reviews Genetics.</a>
-
 <b>*</b> Equal contribution
 <br>
 
@@ -23,7 +22,6 @@ permalink: /Publications/
 <br>
 
 Ruzicka, F.,<sup>*</sup> <b>Hill, M. S.,<sup>*</sup></b> Pennell, T. M.,<sup>*</sup> Fliss, I., Ingleby, F. C., Mott, R., Fowler, K., Morrow, E. H.,<sup>#</sup> Reuter, M.<sup>#</sup> 2019. Genome-wide sexually antagonistic variants reveal lonsgstanding constraints on sexual dimorphism in the fruitfly. <a href="https://doi.org/10.1371/journal.pbio.3000244" style="color:#8b0000">PLoS Biol 17(4): e3000244.</a>
-
 <b>*</b> Equal contribution
 <b>#</b> Equal contribution
 <br>
