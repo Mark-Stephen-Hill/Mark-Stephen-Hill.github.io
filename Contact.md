@@ -15,27 +15,24 @@ permalink: /contact/
 
 <div align="justify">
 
-<p align = "left">Department of Ecology and Evolutionary Biology<br>
-4002 Biological Sciences Building<br>
-1105 North University Avenue<br>
-University of Michigan<br>
-Ann Arbor, MI 48109<br>
-USA<br>
+<p align = "left"><b>Cancer Evolution and Genome Instability Laboratory</b><br>
+The Francis Crick Institute<br>
+1 Midland Road<br>
+Somers Town<br>
+London, NW1 1AT<br>
+UK<br>
 <br>
-Email: marshill[at]umich.edu<br>
+Email: mark.hill[at]crick.ac.uk<br>
 Twitter: @MarksHilly<br>
-<a href="https://lsa.umich.edu/eeb/people/postdoctoral-fellows/mark-hill.html" style="color:#8b0000">Departmental Website</a><br>
-<a href="https://sites.lsa.umich.edu/wittkopp-lab/" style="color:#8b0000">Wittkopp Lab Website</a><br>
 </p>
 </div>
 
 <div id="map" style="width:300px;height:300px;margin-left:0; margin-right:auto;"></div>
 
-
 <script>
 function myMap() {
     var mapOptions = {
-        center: new google.maps.LatLng(42.16447, -83.44042),
+        center: new google.maps.LatLng(51.53213034117245, -0.12574142622487863),
         zoom: 15,
         mapTypeId: google.maps.MapTypeId.ROADMAP
     }
