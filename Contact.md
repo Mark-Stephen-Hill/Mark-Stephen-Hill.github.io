@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-permalink: contact/
+permalink: /contact/
 ---
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111105866-1"></script>
